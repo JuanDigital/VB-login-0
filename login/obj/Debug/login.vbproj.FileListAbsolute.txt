@@ -1,0 +1,14 @@
+C:\Users\Zoe\AppData\Local\Temporary Projects\login\bin\Debug\login.exe.config
+C:\Users\Zoe\AppData\Local\Temporary Projects\login\obj\Debug\login.Form1.resources
+C:\Users\Zoe\AppData\Local\Temporary Projects\login\obj\Debug\login.Resources.resources
+C:\Users\Zoe\AppData\Local\Temporary Projects\login\obj\Debug\login.vbproj.GenerateResource.Cache
+C:\Users\Zoe\AppData\Local\Temporary Projects\login\bin\Debug\login.exe
+C:\Users\Zoe\AppData\Local\Temporary Projects\login\bin\Debug\login.pdb
+C:\Users\Zoe\AppData\Local\Temporary Projects\login\bin\Debug\login.xml
+C:\Users\Zoe\AppData\Local\Temporary Projects\login\obj\Debug\login.exe
+C:\Users\Zoe\AppData\Local\Temporary Projects\login\obj\Debug\login.xml
+C:\Users\Zoe\AppData\Local\Temporary Projects\login\obj\Debug\login.pdb
+C:\Users\Zoe\Documents\Visual Studio 2012\Projects\login\login\bin\Debug\login.exe.config
+C:\Users\Zoe\Documents\Visual Studio 2012\Projects\login\login\obj\Debug\login.exe
+C:\Users\Zoe\Documents\Visual Studio 2012\Projects\login\login\obj\Debug\login.xml
+C:\Users\Zoe\Documents\Visual Studio 2012\Projects\login\login\obj\Debug\login.pdb
